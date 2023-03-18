@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTelephoneRIT</string>
+    <string name="btn_sms">SMS</string>
+</resources>
